@@ -17,8 +17,12 @@
         En este curso aprende&aacute;s a programar p&aacute;ginas web usando git.
          
       <?php
+
+      
             $curso = "contruccion de elementos 2";
-      echo "Estas en el curso: $curso"  ?>
+      echo "Estas en el curso: $curso"  
+     
+      ?>
  
 </p>
      
