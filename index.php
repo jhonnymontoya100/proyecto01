@@ -10,7 +10,7 @@
 <body>
 <div id="envoltura">
         <header>
-        <h1>programaci&oacute;n Web</h1>  
+        <h1>programaci&oacute;n Web.</h1>  
         </header>
 
   <div id="main">
@@ -18,8 +18,6 @@
         En este curso aprender&aacute;s a programar p&aacute;ginas web usando git.
          
       <?php
-
-      
             $curso = "contruccion de elementos 2";
       echo "Estas en el curso: $curso"  
 
