@@ -9,13 +9,13 @@
 
 <body>
 <div id="envoltura">
-  <header>
-    <h1>programaci&oacute;n Web</h1>  
-  </header>
+        <header>
+        <h1>programaci&oacute;n Web</h1>  
+        </header>
 
   <div id="main">
       <p>
-        En este curso aprende&aacute;s a programar p&aacute;ginas web usando git.
+        En este curso aprender&aacute;s a programar p&aacute;ginas web usando git.
          
       <?php
 
